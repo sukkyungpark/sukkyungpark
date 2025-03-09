@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 데이터 분석을 위해 사용한 프로그램들 정리용으로 한번 GITHUB를 배우고 있습니다.
+
+
+
+
+
 <!--
 **sukkyungpark/sukkyungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
